@@ -1,0 +1,29 @@
+{
+  "name": "create-air-app",
+  "version": "0.0.0",
+  "description": "Create AIR apps with no build configuration",
+  "main": "lib/index.js",
+  "bin": {
+    "create-air-app": "lib/cli.js"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://rdarida.github.io/create-air-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdarida/create-air-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rdarida/create-air-app/issues"
+  },
+  "keywords": [],
+  "author": "Róbert Darida",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
