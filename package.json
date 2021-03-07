@@ -5,7 +5,8 @@
   "scripts": {
     "setup": "npm install && npm run bootstrap",
     "bootstrap": "lerna bootstrap",
-    "format": "prettier --write \"packages/*/lib/**/*.js\"",
+    "clean": "lerna run clean",
+    "format": "prettier --write \"packages/*/src/**/*.{js,ts}\"",
     "publish": "lerna publish"
   },
   "author": "Róbert Darida",
