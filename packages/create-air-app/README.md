@@ -8,7 +8,7 @@ You can install the **Create AIR App** using npm (the Node Package Manager). Not
 
 To download and install the **Create AIR App** run the following command:
 ```
-npm install -g create-react-app
+npm install -g create-air-app
 ```
 
 ## Resources
