@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
-const { log } = require('./index');
+import { log } from './index';
 
 ((cwd, argv) => {
   try {
-    log(cwd, argv);
+    log(cwd, ...argv);
   } catch (error) {
     console.log(error.message);
     process.exit(1);
