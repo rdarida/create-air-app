@@ -1,7 +1,6 @@
 {
   "name": "create-air-app-monorepo",
   "private": true,
-  "version": "0.0.0",
   "scripts": {
     "setup": "npm install && npm run bootstrap",
     "bootstrap": "lerna bootstrap",
