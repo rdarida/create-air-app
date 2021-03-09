@@ -1,5 +1,5 @@
 {
-  "name": "@create-air-app/templates",
+  "name": "caa-templates",
   "version": "0.0.2",
   "description": "Templates for Create AIR App",
   "main": "dist/index.js",
@@ -35,5 +35,6 @@
     "@types/node": "^14.14.32",
     "rimraf": "^3.0.2",
     "typescript": "^4.2.3"
-  }
+  },
+  "gitHead": "edacf7d65bcb507b3421cfb4290dbeb65e26c2e8"
 }
