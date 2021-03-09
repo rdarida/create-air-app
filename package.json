@@ -1,6 +1,8 @@
 {
   "name": "create-air-app-monorepo",
   "private": true,
+  "author": "Róbert Darida",
+  "license": "MIT",
   "scripts": {
     "setup": "npm install && npm run bootstrap",
     "bootstrap": "lerna bootstrap",
@@ -8,8 +10,7 @@
     "format": "prettier --write \"packages/*/src/**/*.{js,ts}\"",
     "publish": "lerna publish"
   },
-  "author": "Róbert Darida",
-  "license": "MIT",
+  "dependencies": {},
   "devDependencies": {
     "lerna": "^4.0.0",
     "prettier": "^2.2.1"

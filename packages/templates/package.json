@@ -1,11 +1,9 @@
 {
-  "name": "create-air-app",
+  "name": "@create-air-app/templates",
   "version": "0.0.1",
-  "description": "Create AIR apps with no build configuration",
+  "description": "Templates for Create AIR App",
   "main": "dist/index.js",
-  "bin": {
-    "create-air-app": "dist/cli.js"
-  },
+  "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
@@ -13,15 +11,14 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rdarida/create-air-app.git",
-    "directory": "packages/create-air-app"
+    "directory": "packages/templates"
   },
   "bugs": {
     "url": "https://github.com/rdarida/create-air-app/issues"
   },
   "keywords": [
-    "create",
     "air",
-    "app"
+    "templates"
   ],
   "author": "Róbert Darida",
   "license": "MIT",
