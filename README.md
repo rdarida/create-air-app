@@ -1,6 +1,8 @@
 # Create AIR App Monorepo
 
 ## Packages
+- [airsdk-downloader](packages/airsdk-downloader)
+- [caa-templates](packages/caa-templates)
 - [create-air-app](packages/create-air-app)
 
 ## Resources
