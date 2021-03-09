@@ -1,3 +1,3 @@
 export function log(...args: string[]): void {
-  console.log(...args);
+  console.log('caa-templates', ...args);
 }
