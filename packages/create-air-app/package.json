@@ -8,7 +8,8 @@
     "create-air-app": "dist/cli.js"
   },
   "files": [
-    "dist"
+    "dist",
+    "sdks"
   ],
   "homepage": "https://rdarida.github.io/create-air-app",
   "repository": {
@@ -30,8 +31,8 @@
     "access": "public"
   },
   "scripts": {
-    "clean": "rimraf dist",
-    "prebuild": "rimraf dist",
+    "clean": "rimraf dist sdks/**/*",
+    "prebuild": "rimraf dist sdks/**/*",
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
