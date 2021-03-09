@@ -1,6 +1,6 @@
 {
   "name": "@create-air-app/templates",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Templates for Create AIR App",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -31,7 +31,6 @@
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/node": "^14.14.32",
     "rimraf": "^3.0.2",

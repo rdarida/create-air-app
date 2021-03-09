@@ -1,6 +1,6 @@
 {
   "name": "create-air-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create AIR apps with no build configuration",
   "main": "dist/index.js",
   "bin": {
@@ -34,7 +34,6 @@
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/node": "^14.14.32",
     "rimraf": "^3.0.2",
