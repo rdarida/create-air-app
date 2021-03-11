@@ -16,3 +16,4 @@
 - [Migrating to Typescript: Write a declaration file for a third-party NPM module](https://medium.com/@chris_72272/migrating-to-typescript-write-a-declaration-file-for-a-third-party-npm-module-b1f75808ed2)
 - [Using Adobe Flex 4.6](https://help.adobe.com/archive/en_US/flex/using/flex_4.6_help.pdf)
 - [Using mxmlc to compile as files with more than one src paths](https://stackoverflow.com/questions/17626205/using-mxmlc-to-compile-as-files-with-more-than-one-src-paths)
+- [Developing Native Extensions for Adobe AIR](https://help.adobe.com/en_US/air/extensions/air_extensions.pdf)
