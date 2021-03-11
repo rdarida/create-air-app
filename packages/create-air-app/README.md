@@ -10,5 +10,3 @@ To download and install the **Create AIR App** run the following command:
 ```
 npm install -g create-air-app
 ```
-
-## Resources
